@@ -29,9 +29,9 @@ public class BasicCollectionClasses {
 		l.add(4);
 		System.out.println(l);
 
-		int i = 10;
+		// int i = 10;
 		// i = 20;
-		System.out.println(i);
+		// System.out.println(i);
 
 		// Map can not contain duplicate keys but can contain duplicate values.
 		Map m = new HashMap();
