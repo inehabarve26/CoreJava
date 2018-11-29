@@ -12,7 +12,7 @@ public class Triangle extends Shape {
 	@Override
 	public String getColor() {
 		System.out.println(super.getColor());
-		return "Black";
+		return "Black ";
 	}
 
 	@Override
